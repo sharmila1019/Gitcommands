@@ -2,3 +2,6 @@ Git Commands
 stagging area ---->git add
 Localrepository--->git commit
 Local to Remote repository----> git push
+Remote to local---->git pull
+for user name and email --->git config
+commands added.
