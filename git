@@ -1,3 +1,4 @@
 Git Commands
 stagging area ---->git add
 Localrepository--->git commit
+Local to Remote repository----> git push
